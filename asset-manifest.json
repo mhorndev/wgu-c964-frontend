@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mhorndev/wgu-c964-frontend/static/css/main.33e0e534.chunk.css",
+    "main.js": "/mhorndev/wgu-c964-frontend/static/js/main.44964aef.chunk.js",
+    "main.js.map": "/mhorndev/wgu-c964-frontend/static/js/main.44964aef.chunk.js.map",
+    "runtime-main.js": "/mhorndev/wgu-c964-frontend/static/js/runtime-main.a3eaad55.js",
+    "runtime-main.js.map": "/mhorndev/wgu-c964-frontend/static/js/runtime-main.a3eaad55.js.map",
+    "static/css/2.6a77473f.chunk.css": "/mhorndev/wgu-c964-frontend/static/css/2.6a77473f.chunk.css",
+    "static/js/2.25fcb964.chunk.js": "/mhorndev/wgu-c964-frontend/static/js/2.25fcb964.chunk.js",
+    "static/js/2.25fcb964.chunk.js.map": "/mhorndev/wgu-c964-frontend/static/js/2.25fcb964.chunk.js.map",
+    "index.html": "/mhorndev/wgu-c964-frontend/index.html",
+    "precache-manifest.5d50c501d9b1f6ea841f2e708c62e8d1.js": "/mhorndev/wgu-c964-frontend/precache-manifest.5d50c501d9b1f6ea841f2e708c62e8d1.js",
+    "service-worker.js": "/mhorndev/wgu-c964-frontend/service-worker.js",
+    "static/css/2.6a77473f.chunk.css.map": "/mhorndev/wgu-c964-frontend/static/css/2.6a77473f.chunk.css.map",
+    "static/css/main.33e0e534.chunk.css.map": "/mhorndev/wgu-c964-frontend/static/css/main.33e0e534.chunk.css.map",
+    "static/js/2.25fcb964.chunk.js.LICENSE.txt": "/mhorndev/wgu-c964-frontend/static/js/2.25fcb964.chunk.js.LICENSE.txt",
+    "static/media/insurance.csv": "/mhorndev/wgu-c964-frontend/static/media/insurance.d5364d06.csv",
+    "static/media/index.css": "/mhorndev/wgu-c964-frontend/static/media/roboto-vietnamese-400-normal.a8be5b46.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3eaad55.js",
+    "static/css/2.6a77473f.chunk.css",
+    "static/js/2.25fcb964.chunk.js",
+    "static/css/main.33e0e534.chunk.css",
+    "static/js/main.44964aef.chunk.js"
+  ]
+}
